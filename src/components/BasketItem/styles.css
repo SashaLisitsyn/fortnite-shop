@@ -1,0 +1,9 @@
+.basket-delete {
+  cursor: pointer;
+}
+
+.basket-quantity {
+  cursor: pointer;
+  vertical-align: middle;
+  color: #01579b;
+}

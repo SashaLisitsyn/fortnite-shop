@@ -1,0 +1,16 @@
+.cart {
+  position: fixed;
+  top: 0rem;
+  right: 0rem;
+  cursor: pointer;
+  z-index: 5;
+  padding: 1rem;
+}
+
+@media (min-width: 767px) {
+  .cart {
+    top: 5rem;
+    right: 1rem;
+    bottom: unset;
+  }
+}
